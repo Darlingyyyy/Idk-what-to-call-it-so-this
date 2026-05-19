@@ -1,5 +1,3 @@
-# Project Astra
-
 一个第三人称开放世界动作RPG。
 
 灵感来源：
